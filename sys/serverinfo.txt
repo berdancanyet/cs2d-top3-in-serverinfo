@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<serverinfo>
+
+<image width="500" height="171" color="#ffffff" align = "center" 
+source = "gfx/kgb2d/serverinfo/kgb2dgta.png" url="https://kgb2d.xyz"></image>  
+
+<br />
+<text size = "14" color="#ffffff"
+align="left">———————————————————————————————————————————————————————
+——————————————————————————————————————————————————</text><br />
+
+<text size = "17" color="#ffffff" align="center">
+TOP PLAYERS OF MAY 2020
+</text>
+
+<br />
+
+<image width="32" height="32" color="#ffffff" align = "left" 
+source = "gfx/kgb2d/serverinfo/first.png"></image>
+<text size = "15" color="#FFF300" align="left">
+BcY#32376
+</text>
+
+<text size = "15" color="#BABABA" align="left">       </text>
+
+
+<image width="32" height="32" color="#ffffff" align = "left" 
+source = "gfx/kgb2d/serverinfo/second.png"></image>
+<text size = "15" color="#BABABA" align="left">
+To be updated
+</text>
+
+<text size = "15" color="#BABABA" align="left">       </text>
+
+
+<image width="32" height="32" color="#ffffff" align = "left" 
+source = "gfx/kgb2d/serverinfo/third.png"></image>
+<text size = "15" color="#FFC300" align="left">
+To be updated
+</text>
+
+<br />
+
+<text size = "14" color="#ffffff"
+align="left">———————————————————————————————————————————————————————
+——————————————————————————————————————————————————</text><br />
+
+<text size = "14" color="#ffffff" align="left">Since 2012,</text><br />
+<text size = "14" color="#ffffff" align="left">
+We're creating, developing, hosting and helping others with passion.</text><br />
+<text size = "14" color="#ffffff" align="left">Love passionately and never leave 
+the things you love, no matter what.</text><br />
+<text size = "14" color="#ffffff" align="left">Regards, Kgb2d.</text><br />
+
+<image width="200" height="60" color="#ffffff" align = "left" 
+source = "gfx/kgb2d/serverinfo/dc.png" url="https://dc.kgb2d.xyz"></image>
+
+<image width="200" height="60" color="#ffffff" align = "left" 
+source = "gfx/kgb2d/serverinfo/steam.png" 
+url="https://steamcommunity.com/groups/kgb2d"></image>
+
+<br />
+
+<text size = "14" color="#ffffff"
+align="left">———————————————————————————————————————————————————————
+——————————————————————————————————————————————————</text><br />
+
+<text size = "17" color="#FF0000"
+align="center" url="https://kgb2d.xyz/thread-57.html">By playing on our server
+ you agree to follow the server rules.</text>
+
+</serverinfo>
